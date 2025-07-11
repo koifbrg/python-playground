@@ -1,0 +1,42 @@
+# First Python Project — Soft Abuse Bot
+
+This is the very first complete Python script I ever built, and yes — it's **absolutely ridiculous**.  
+It's a text-based conversation full of sarcasm, questionable language, and passive-aggressive humor.  
+The point? To learn how to take user input, validate it, and respond dynamically. The result?  
+A mess that actually works (and made me laugh). So, success.
+
+## What does it do?
+
+- Asks the user if they're a "boy" or a "girl" (and mocks them either way)
+- Requests a favorite number and:
+  - Checks if it's actually a number
+  - Responds differently to certain "special numbers" (like 666 or 69)
+  - Lies about sharing the same favorite number, because trust issues
+- Reacts to the user's belief or disbelief with even more sass
+
+## What I practiced
+
+- `input()` and how to collect user data
+- `try/except` blocks to handle errors (like people who write "potato" instead of a number)
+- `if/elif/else` logic with custom responses
+- Using `f-strings` to personalize messages
+- Dictionaries to store special number reactions
+- Writing clean-ish structure in a fun, testable way
+
+## ⚠ Disclaimer ⚠
+
+- This code includes some swearing and sarcastic insults.  
+- It was written by someone who was extremely proud of making Python finally talk back.  
+- It's not meant for professional environments unless your job involves teaching sarcasm to robots.
+
+## Why it matters
+
+Even if it's silly, this script represents a huge step:  
+→ The moment I stopped just *learning about Python*, and actually *used it to create something*.
+
+It’s also a reminder that learning can (and should) be weird, funny, and personal.
+
+---
+
+Made with questionable humor, and one functioning brain cell,  
+by Koi Fábrega
